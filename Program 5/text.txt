@@ -1,0 +1,8 @@
+#include<stdio.h>
+// Driver Code
+int main()
+{
+int a; 
+/* we have to delete comments */
+return 0;
+}

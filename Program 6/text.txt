@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+/*This is my first program. */
+
+int main(){/*Main function*/
+return(0);
+}
+
+/*End of Program*/
